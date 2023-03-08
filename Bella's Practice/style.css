@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: beige;
+}
+
+nav{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: bisque;
+
+}
+nav h1{
+    background-color: bisque;
+}
+
+nav ul{
+    display: flex;
+    text-decoration: none;
+    
+}
+
+nav ul li{
+    list-style-type: none;
+    padding: 0px 10px;
+    background-color: bisque;
+}
+
+header h1, header em{
+    background-color: transparent;
+
+}
+
+div header{
+    display: block;
+    color: black;
+    text-align: center;
+    justify-content: center;
+    padding: 150px;
+    background: url(bread.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+
+
+
+
+
+
